@@ -14,3 +14,4 @@ Owner: no permission at all
 Group: no permission at all
 
 Other users: all the permission
+Task 9. You are not allowed to use commas for this script
